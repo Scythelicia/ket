@@ -1,0 +1,14 @@
+D:\Curacha.Activity2\activity2\activity2\bin\Debug\net8.0\activity2.exe
+D:\Curacha.Activity2\activity2\activity2\bin\Debug\net8.0\activity2.deps.json
+D:\Curacha.Activity2\activity2\activity2\bin\Debug\net8.0\activity2.runtimeconfig.json
+D:\Curacha.Activity2\activity2\activity2\bin\Debug\net8.0\activity2.dll
+D:\Curacha.Activity2\activity2\activity2\bin\Debug\net8.0\activity2.pdb
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\activity2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\activity2.AssemblyInfoInputs.cache
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\activity2.AssemblyInfo.cs
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\activity2.csproj.CoreCompileInputs.cache
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\activity2.dll
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\refint\activity2.dll
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\activity2.pdb
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\activity2.genruntimeconfig.cache
+D:\Curacha.Activity2\activity2\activity2\obj\Debug\net8.0\ref\activity2.dll
