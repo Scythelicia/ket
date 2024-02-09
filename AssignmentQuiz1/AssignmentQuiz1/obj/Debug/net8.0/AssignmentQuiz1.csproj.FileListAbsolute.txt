@@ -1,0 +1,14 @@
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\bin\Debug\net8.0\AssignmentQuiz1.exe
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\bin\Debug\net8.0\AssignmentQuiz1.deps.json
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\bin\Debug\net8.0\AssignmentQuiz1.runtimeconfig.json
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\bin\Debug\net8.0\AssignmentQuiz1.dll
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\bin\Debug\net8.0\AssignmentQuiz1.pdb
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\AssignmentQuiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\AssignmentQuiz1.AssemblyInfoInputs.cache
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\AssignmentQuiz1.AssemblyInfo.cs
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\AssignmentQuiz1.csproj.CoreCompileInputs.cache
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\AssignmentQuiz1.dll
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\refint\AssignmentQuiz1.dll
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\AssignmentQuiz1.pdb
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\AssignmentQuiz1.genruntimeconfig.cache
+C:\Curacha\AssignmentQuiz1\AssignmentQuiz1\obj\Debug\net8.0\ref\AssignmentQuiz1.dll
