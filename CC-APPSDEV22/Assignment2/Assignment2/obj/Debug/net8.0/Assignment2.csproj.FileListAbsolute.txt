@@ -1,0 +1,14 @@
+C:\CC-APPSDEV22\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.exe
+C:\CC-APPSDEV22\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+C:\CC-APPSDEV22\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+C:\CC-APPSDEV22\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.dll
+C:\CC-APPSDEV22\Assignment2\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.dll
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+C:\CC-APPSDEV22\Assignment2\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
